@@ -8,4 +8,4 @@ function ModalHeader({children}) {
   )
 }
 
-export default ModalHeader
+export default ModalHeader 

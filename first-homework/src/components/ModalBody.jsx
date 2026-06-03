@@ -17,3 +17,4 @@ function ModalBody({ children, text, photo, style, secText, textStyle }) {
 }
 
 export default ModalBody
+ 

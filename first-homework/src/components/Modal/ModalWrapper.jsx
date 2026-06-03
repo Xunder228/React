@@ -11,3 +11,4 @@ function ModalWrapper({ children, onClose }) {
 }
 
 export default ModalWrapper
+ 

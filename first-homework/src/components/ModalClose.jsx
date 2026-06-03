@@ -10,4 +10,4 @@ function ModalClose({onClick}) {
   )
 }
 
-export default ModalClose
+export default ModalClose 

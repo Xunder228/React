@@ -8,4 +8,4 @@ function Button({type, classNames, onClick, children}) {
   )
 }
 
-export default Button
+export default Button 

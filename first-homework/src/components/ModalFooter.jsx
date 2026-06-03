@@ -22,4 +22,4 @@ export default ModalFooter
 //         <button onClick={secondaryClick}>
 //             {secondaryText}
 //         </button>
-//       )}
+//       )} 
