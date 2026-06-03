@@ -41,6 +41,7 @@ function App() {
         </ModalWrapper>
       )}
 
+
       <button onClick={() => setOpenSec(true)}>Open second modal</button>
       {openSec && (
         <ModalWrapper onClose={() => setOpenSec(false)}>
