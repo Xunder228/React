@@ -1,0 +1,72 @@
+[
+  {
+    "name": "iPhone 15 Pro",
+    "price": 49999,
+    "image": "https://content.rozetka.com.ua/goods/images/big/364824471.jpg",
+    "article": 1001,
+    "color": "Титановий"
+  },
+  {
+    "name": "Samsung Galaxy S24",
+    "price": 42999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big/591773663.jpg",
+    "article": 1002,
+    "color": "Чорний"
+  },
+  {
+    "name": "MacBook Air M3",
+    "price": 58999,
+    "image": "https://content.rozetka.com.ua/goods/images/big/655338255.jpg",
+    "article": 1003,
+    "color": "Сріблястий"
+  },
+  {
+    "name": "Apple Watch Series 10",
+    "price": 18999,
+    "image": "https://images.prom.ua/6578266647_w640_h640_smart-chasy-apple-watch.jpg",
+    "article": 1004,
+    "color": "Синій"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "price": 12999,
+    "image": "https://img.jabko.ua/image/cache/catalog/products/2022/05/181141/61icqyoi2nl._ac_sl1500_-770x1176-1397x1397.jpg.webp",
+    "article": 1005,
+    "color": "Білий"
+  },
+  {
+    "name": "Logitech MX Master 3S",
+    "price": 4999,
+    "image": "https://img.jabko.ua/image/cache/catalog/products/2025/02/141439/4rew.jpg-1397x1397.jpg.webp",
+    "article": 1006,
+    "color": "Сірий"
+  },
+  {
+    "name": "Samsung Odyssey G5",
+    "price": 14999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big/654287440.jpg",
+    "article": 1007,
+    "color": "Чорний"
+  },
+  {
+    "name": "JBL Charge 5",
+    "price": 5999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big/656631904.jpg",
+    "article": 1008,
+    "color": "Червоний"
+  },
+  {
+    "name": "Xiaomi Pad 6",
+    "price": 13999,
+    "image": "https://images.prom.ua/7235226232_w640_h640_planshet-xiaomi-pad.jpg",
+    "article": 1009,
+    "color": "Золотий"
+  },
+  {
+    "name": "HP LaserJet Pro",
+    "price": 8999,
+    "image": "https://images.prom.ua/6969967395_w640_h640_bfp-hp-laserjet.jpg",
+    "article": 1010,
+    "color": "Білий"
+  }
+]
